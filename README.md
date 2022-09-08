@@ -1,3 +1,2 @@
-
-
-🌎 Awesome Joke API 🌎 : https://bit.ly/Joke-API
+🤩 Awesome Joke API 
+🌎 Live Demo  : https://bit.ly/Joke-API
